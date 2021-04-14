@@ -17,3 +17,6 @@ f
 #### 渠道2
 
 http://www.baidu.com
+
+
+https://github.com/qgxqgx/WebStack-Laravel/blob/master/README.md
